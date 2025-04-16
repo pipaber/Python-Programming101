@@ -2,13 +2,18 @@
 
 ![Descripción](https://posgrado.utec.edu.pe/sites/default/files/2023-08/Testimonial-home-2.jpg)
 
+
 ---
 
-# 📘 Programación 101 – Maestría en Ciencia de Datos e Inteligencia Artificial (UTEC)
+
+# 📘 Programación 101 
+## Maestría en Ciencia de Datos e Inteligencia Artificial (UTEC)
+
 
 Bienvenido al repositorio oficial del curso **Programación 101**, perteneciente a la **Maestría en Ciencia de Datos e Inteligencia Artificial** de la Universidad de Ingeniería y Tecnología (UTEC).
 
 Este curso ha sido diseñado especialmente para profesionales que buscan adquirir competencias sólidas en programación usando Python, con un enfoque práctico y moderno orientado al análisis y visualización de datos para aplicaciones en inteligencia artificial.
+
 
 ---
 
