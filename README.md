@@ -7,7 +7,7 @@
 
 
 # 📘 Programación 101 
-## Maestría en Ciencia de Datos e Inteligencia Artificial (UTEC)
+### Maestría en Ciencia de Datos e Inteligencia Artificial (UTEC)
 
 
 Bienvenido al repositorio oficial del curso **Programación 101**, perteneciente a la **Maestría en Ciencia de Datos e Inteligencia Artificial** de la Universidad de Ingeniería y Tecnología (UTEC).
