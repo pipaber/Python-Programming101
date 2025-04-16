@@ -17,6 +17,7 @@ Este curso ha sido diseñado especialmente para profesionales que buscan adquiri
 
 ---
 
+
 ## 🎯 Objetivos del Curso
 
 - Adquirir fundamentos sólidos en programación estructurada y modular con Python.
@@ -29,6 +30,7 @@ Este curso ha sido diseñado especialmente para profesionales que buscan adquiri
 
 
 ---
+
 
 ## 📚 Contenidos del Curso
 
@@ -71,6 +73,7 @@ Este curso ha sido diseñado especialmente para profesionales que buscan adquiri
 - Gráficos informativos con Matplotlib
 - Visualizaciones avanzadas con Seaborn
 
+
 ---
 
 
@@ -85,7 +88,9 @@ Este curso ha sido diseñado especialmente para profesionales que buscan adquiri
 
 Nota mínima aprobatoria: **13/20**.
 
+
 ---
+
 
 ## 📂 Estructura del Repositorio
 
@@ -116,7 +121,9 @@ programacion-101/
 - **Mg (c) Jorge Villavicencio Antunez** – Coordinador Académico
 - **Juan Gallego** – Asistente académico
 
+
 ---
+
 
 ## 📖 Bibliografía Recomendada
 
